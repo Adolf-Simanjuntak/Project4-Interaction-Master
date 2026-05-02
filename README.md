@@ -2,9 +2,11 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-<img width="766" height="527" alt="image" src="https://github.com/user-attachments/assets/50388aaf-c524-4326-b570-033f04e9bd5d" />
+<img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/289b2c56-2064-44ff-92ed-fbd17ace40ea" />
 
-<img width="766" height="534" alt="image" src="https://github.com/user-attachments/assets/3fd4fd38-ee33-4996-90b2-ba1eeac08e99" />
+
+<img width="1600" height="664" alt="image" src="https://github.com/user-attachments/assets/abf9755c-4c84-45de-86c8-1915b02be43b" />
+
 
 
 ## 🛠️ Logic Implemented
